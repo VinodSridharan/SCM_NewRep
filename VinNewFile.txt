@@ -2,3 +2,4 @@ Testing data and commit1
 Add new data and test for push
 And Commit 2.
 Add 4th line to make hard reser check.
+Testing commit message through editor.
