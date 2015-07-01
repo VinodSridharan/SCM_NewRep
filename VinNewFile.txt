@@ -3,3 +3,4 @@ Add new data and test for push
 And Commit 2.
 Add 4th line to make hard reser check.
 Testing commit message through editor.
+Local copy changes not committed are reverted, but I am going to commit.
